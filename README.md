@@ -9,7 +9,7 @@
     - [Running the WebUI and Python API](#running-the-webui-and-python-api)
 
 # Cognition
-Cognition is an advanced Retrieval-Augmented Generation (RAG) service. It is used with external data for specialized knowledge and will allow you to reference source information. In my case I use the service for offensive security related topics, however the data I use will not be provided in this project. This however will be a usable project for your own data to be leveraged.
+Cognition is an advanced Retrieval-Augmented Generation (RAG) service. It is used with external data for specialized knowledge and will allow you to reference source information. In my case I use the service for offensive security related topics, however the data I use will not be provided in this project. This will be a usable project for your own data to be leveraged.
 
 # Project Info
 This RAG service uses the following open source projects:
