@@ -77,7 +77,7 @@ cd ChatAPI/Middleware
 
 Once the services are running you can navigate to `http://localhost:3000` in a browser.
 
-![Screenshot from 2024-11-27 11-44-45](https://github.com/user-attachments/assets/07b14ad5-94bc-4466-b777-125f5ce8932c)
+file:///home/parallels/Pictures/Screenshots/Screenshot%20from%202024-11-27%2011-44-45.png
 
 
 
