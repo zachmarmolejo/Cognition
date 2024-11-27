@@ -12,7 +12,7 @@
 Cognition is an advanced Retrieval-Augmented Generation (RAG) service. It is used with external data for specialized knowledge and will allow you to reference source information. In my case I use the service for offensive security related topics, however the data I use will not be provided in this project. This will be a usable project for your own data to be leveraged.
 
 # Project Info
-This RAG service uses the following open source projects:
+The RAG service uses these main components:
 - https://github.com/anse-app/anse -> Web UI
 - https://github.com/pixegami/langchain-rag-tutorial -> RAG functionality
 - Custom python API to handle the interactions between each component.
