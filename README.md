@@ -1,5 +1,5 @@
 # Cognition
-Cognition is an advanced Retrieval-Augmented Generation (RAG) service. It can be used to leverage data for specialized knowledge and will allow you to reference source information. In my case I use the service for offensive security related topics, however the data I use will not be provided in this project. This however will be a usable project for your own data to be leveraged.
+Cognition is an advanced Retrieval-Augmented Generation (RAG) service. It is used with external data for specialized knowledge and will allow you to reference source information. In my case I use the service for offensive security related topics, however the data I use will not be provided in this project. This however will be a usable project for your own data to be leveraged.
 
 # Project Info
 This RAG service uses the following open source projects:
@@ -49,7 +49,7 @@ time python3 create_database.py
 python3 query_data.py "[Message(role='user', content='what is red teaming')]" 2>/dev/null
 ```
 
-## Running with the WebUI
+## Running the WebUI and Python API
 Note for the python API, you will need to edit the `query_data.py` path.
 
 ```python
@@ -78,6 +78,3 @@ cd ChatAPI/Middleware
 Once the services are running you can navigate to `http://localhost:3000` in a browser.
 
 ![Screenshot from 2024-11-27 11-44-45](https://github.com/user-attachments/assets/07b14ad5-94bc-4466-b777-125f5ce8932c)
-
-
-
