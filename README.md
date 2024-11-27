@@ -19,7 +19,6 @@ The RAG service uses these main components:
 - Usage is specific to OpenAI API.
 
 # Demo
----
 
 [Screencast from 10-25-24 09:50:43.webm](https://github.com/user-attachments/assets/2940b174-7c28-4c28-9e5e-6229e6663963)
 
