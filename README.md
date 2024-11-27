@@ -75,11 +75,14 @@ cd ChatAPI/Middleware
 ./run.sh
 ```
 
-Once the services are running you can navigate to `http://localhost:3000` in a browser.
+Once the services are running you can navigate to `http://localhost:3000` in a browser. 
+- The python API goes in the Base URL section at `http://127.0.0.1:8000`.
+
+---
 
 ![Screenshot from 2024-11-27 11-44-45](https://github.com/user-attachments/assets/cf5826ad-f69e-4c66-b8d8-b5a681a79f5e)
 
-
+---
 
 
 
