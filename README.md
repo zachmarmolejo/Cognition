@@ -1,12 +1,12 @@
 # Table of Contents
-- [#Cognition]
-- [#Project Info]
-- [#Demo]
-- [#Setup]
-    - [#OpenAI API Access]
-    - [#Create Database]
-    - [#Querying the RAG Service]
-    - [#Running the WebUI and Python API]
+- [Cognition](#cognition)
+- [Project Info](#project-info)
+- [Demo](#demo)
+- [Setup](#setup)
+    - [OpenAI API Access](#openai-api-access)
+    - [Create Database](#create-database)
+    - [Querying the RAG Service](#querying-the-rag-service)
+    - [Running the WebUI and Python API](#running-the-webui-and-python-api)
 
 # Cognition
 Cognition is an advanced Retrieval-Augmented Generation (RAG) service. It is used with external data for specialized knowledge and will allow you to reference source information. In my case I use the service for offensive security related topics, however the data I use will not be provided in this project. This however will be a usable project for your own data to be leveraged.
