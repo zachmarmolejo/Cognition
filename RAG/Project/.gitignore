@@ -1,0 +1,7 @@
+.env
+chroma_*
+chroma
+.DS_Store
+data/
+data_*
+TODO.md
